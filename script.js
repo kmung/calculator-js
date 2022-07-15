@@ -85,7 +85,7 @@ class Calculator {
         this.previousOperandTextElement.innerText = ''
       }
     }
-  }
+}
   
   
   const numberButtons = document.querySelectorAll('[data-number]')
