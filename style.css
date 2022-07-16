@@ -37,7 +37,10 @@ body {
 
 .output {
     grid-column: 1 / -1;
-    background-color: rgba(0, 0, 0, 0.75);
+    background-color: rgba(64, 62, 62, 0.75);
+    border-style: solid;
+    border-width: 2px;
+    border-color: bisque;
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
