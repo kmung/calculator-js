@@ -4,6 +4,8 @@
 * The whole point here is for me to learn and apply JavaScript
 * I will add my own code overtime to add more features
 */
+
+// defining the constructor for the calculator
 class Calculator {
     constructor(previousOperandTextElement, currentOperandTextElement) {
       this.previousOperandTextElement = previousOperandTextElement;
